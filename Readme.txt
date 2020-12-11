@@ -5,7 +5,7 @@ Portfolio website designed by Atikur Rahman
 
   MyResume                 
 :-------------------------:
- ![](https://github.com/Atiksujon360/car_rental_app/blob/master/assets/screen.jpg?raw=true)
+ ![](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.70.jpg?raw=true)
  
  
 
