@@ -5,7 +5,7 @@ Portfolio website designed by Atikur Rahman
 
   MyResume                 
 :-------------------------:
- ![](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.70.jpg?raw=true)
+![](https://github.com/Atiksujon360/Ecommerce_App/blob/master/screenshots/screenshot_1.jpg?raw=true)|![]
  
  
 
