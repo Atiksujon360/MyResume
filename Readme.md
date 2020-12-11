@@ -1,8 +1,10 @@
-#MyResume
+# MyResume
 portfolio website designed by Atikur Rahman
 
-##Screenshots
- ❮img src="MyResume/blob/master/assets/img/screenshot.70.jpg" ❯
+## Screenshots
+ HomePage                 | 
+:-------------------------:|
+ ![](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.70.jpg?raw=true)
 
 
 ## Pull Requests
