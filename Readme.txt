@@ -1,21 +1,24 @@
-# car_rental_app
-Car Rental App UI in Flutter designed by Atikur Rahman
+# Corona Virus Tracker & Advices App with Flutter
 
-## Screenshots
-
- ![Alt text](./promo.jpg?raw=true "Corona Virus Tracker & Advices Flutter App")
-        
+![Alt text](./promo.jpg?raw=true "Corona Virus Tracker & Advices Flutter App")
 
 
-## Pull Requests
+## Try the web app dev preview
+https://alfian-flutter-coronatracker.firebaseapp.com/
 
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
+## Features
+- Current statistics of global total confirmed, deaths, recovered cases.
+- Statistics of countries and regions total cases count
+- World map with annotation pin and description of affected regions
+- Datasets is provided by ArcGIS Esri Corona Virus dataset.
+- Basic advice to prevent and handle virus,  myth busters Q&A from WHO.
 
+## Requirements
+- Min of Flutter 1.12.3 beta channel.
+- iOS - Enable Google Maps for iOS API and set the API Key in `AppDelegate.swift`.
+- Android - Enable Google Maps for Android API and set the API Key in `AndroidManifest`.
+- Web - Enable Google Maps Javascript API and set API key in `index.html`
 
-## Created & Maintained By
-
-[Atikur Rahman](https://github.com/Atiksujon360)
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> Contact me on my email: atiksujon7@gmail.com
+## Getting Started
+- Clone or download
+- Build and Run
