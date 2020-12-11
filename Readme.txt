@@ -1,5 +1,9 @@
-# MyResume
+#MyResume
 portfolio website designed by Atikur Rahman
+
+##Screenshots
+
+ ![alt text](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.70.jpg)
 
 
 ## Pull Requests
