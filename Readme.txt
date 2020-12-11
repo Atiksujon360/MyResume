@@ -1,24 +1,16 @@
-# Corona Virus Tracker & Advices App with Flutter
+# MyResume
+portfolio website designed by Atikur Rahman
 
-![Alt text](./promo.jpg?raw=true "Corona Virus Tracker & Advices Flutter App")
+
+## Pull Requests
+
+I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request.
 
 
-## Try the web app dev preview
-https://alfian-flutter-coronatracker.firebaseapp.com/
+## Created & Maintained By
 
-## Features
-- Current statistics of global total confirmed, deaths, recovered cases.
-- Statistics of countries and regions total cases count
-- World map with annotation pin and description of affected regions
-- Datasets is provided by ArcGIS Esri Corona Virus dataset.
-- Basic advice to prevent and handle virus,  myth busters Q&A from WHO.
+[Atikur Rahman](https://github.com/Atiksujon360)
 
-## Requirements
-- Min of Flutter 1.12.3 beta channel.
-- iOS - Enable Google Maps for iOS API and set the API Key in `AppDelegate.swift`.
-- Android - Enable Google Maps for Android API and set the API Key in `AndroidManifest`.
-- Web - Enable Google Maps Javascript API and set API key in `index.html`
-
-## Getting Started
-- Clone or download
-- Build and Run
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> Contact me on my email: atiksujon7@gmail.com
