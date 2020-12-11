@@ -2,9 +2,13 @@
 portfolio website designed by Atikur Rahman
 
 ## Screenshots
- HomePage                 | 
-:-------------------------:|
- ![](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.70.jpg?raw=true)
+
+  HomePage                 |   About Page        |  
+:-------------------------:|:-------------------------:
+ ![](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.70.jpg?raw=true)|![](https://github.com/Atiksujon360/MyResume/blob/master/assets/img/screenshot.71.jpg?raw=true)
+ 
+ 
+ 
 
 
 ## Pull Requests
